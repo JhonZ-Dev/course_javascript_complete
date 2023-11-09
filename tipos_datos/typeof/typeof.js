@@ -5,3 +5,11 @@ console.log(typeof nombre); //indica que tipo de dato se esta utilizando
 
 nombre = 10.5;
 console.log(typeof nombre); // cambio de tipo de dato
+
+//tipos de datos objeto
+var objeto = {
+    nombre: "Jhon",
+    apellido: "Gomez",
+    telefono: "1234567890"
+}
+console.log(typeof objeto); //indica que tipo de dato se esta utilizando
