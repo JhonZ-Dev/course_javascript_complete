@@ -25,3 +25,4 @@ class Persona {
         this.apellido = apellido;
     }
 }
+console.log(typeof Persona); //indica que tipo de dato se esta utilizando
