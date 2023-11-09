@@ -17,3 +17,11 @@ console.log(typeof objeto); //indica que tipo de dato se esta utilizando
 //Tipos de datos funcion
 function miFuncion() {}
 console.log(typeof miFuncion); //indica que tipo de dato se esta utilizando
+
+//Tipos de clases 
+class Persona {
+    constructor(nombre, apellido) {
+        this.nombre = nombre;
+        this.apellido = apellido;
+    }
+}
