@@ -26,3 +26,7 @@ class Persona {
     }
 }
 console.log(typeof Persona); //indica que tipo de dato se esta utilizando
+
+//Tipos de datos simbolo
+var simbolo = Symbol("mi simbolo");
+console.log(typeof simbolo); //indica que tipo de dato se esta utilizando
