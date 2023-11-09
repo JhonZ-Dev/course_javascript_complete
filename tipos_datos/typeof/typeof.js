@@ -13,3 +13,7 @@ var objeto = {
     telefono: "1234567890"
 }
 console.log(typeof objeto); //indica que tipo de dato se esta utilizando
+
+//Tipos de datos funcion
+function miFuncion() {}
+console.log(typeof miFuncion); //indica que tipo de dato se esta utilizando
